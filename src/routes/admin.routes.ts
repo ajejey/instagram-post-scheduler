@@ -12,9 +12,9 @@ const router = express.Router();
  */
 router.get('/schedule', (req: Request, res: Response): void => {
   try {
-    const schedulePath = path.join(__dirname, '../content/scheduled/content-schedule.json');
-    
-    if (!fs.existsSync(schedulePath)) {
+    // Use the content service to get the schedule instead of reading it directly
+    // This ensures we use the same path resolution logic
+    if (!contentService.hasSchedule()) {
       res.status(404).json({
         success: false,
         message: 'Content schedule not found'
@@ -22,8 +22,8 @@ router.get('/schedule', (req: Request, res: Response): void => {
       return;
     }
     
-    const scheduleData = fs.readFileSync(schedulePath, 'utf8');
-    const schedule = JSON.parse(scheduleData);
+    // Get the schedule directly from the content service
+    const schedule = contentService.getSchedule();
     
     res.json({
       success: true,

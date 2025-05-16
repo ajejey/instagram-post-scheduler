@@ -35,12 +35,73 @@ export interface ContentSchedule {
  * Handles loading, retrieving, and managing scheduled content
  */
 class ContentService {
-  private schedulePath: string;
+  private schedulePath: string = '';
   private contentSchedule: ContentSchedule | null = null;
 
   constructor() {
-    this.schedulePath = path.join(__dirname, '../content/scheduled/content-schedule.json');
+    // Try multiple possible paths to find the content schedule
+    const possiblePaths = [
+      // Standard path when running from src
+      path.join(__dirname, '../content/scheduled/content-schedule.json'),
+      // Path when running from dist in development
+      path.join(__dirname, '../../src/content/scheduled/content-schedule.json'),
+      // Path when running from dist in production
+      path.join(process.cwd(), 'src/content/scheduled/content-schedule.json'),
+      // Absolute path from project root
+      path.join(process.cwd(), 'dist/content/scheduled/content-schedule.json'),
+      // Another possible production path
+      path.join(process.cwd(), 'content/scheduled/content-schedule.json')
+    ];
+    
+    // Debug logging
+    console.log('Content Service - Current directory:', __dirname);
+    console.log('Content Service - Process current working directory:', process.cwd());
+    
+    // Try each path until we find one that exists
+    for (const potentialPath of possiblePaths) {
+      console.log(`Checking path: ${potentialPath}`);
+      if (fs.existsSync(potentialPath)) {
+        console.log(`Found content schedule at: ${potentialPath}`);
+        this.schedulePath = potentialPath;
+        break;
+      }
+    }
+    
+    // If no path was found, use the default path
+    if (!this.schedulePath) {
+      console.log('No existing content schedule found, using default path');
+      this.schedulePath = path.join(__dirname, '../content/scheduled/content-schedule.json');
+    }
+    
+    // List all files in the content directory if it exists
+    const contentDir = path.dirname(path.dirname(this.schedulePath));
+    if (fs.existsSync(contentDir)) {
+      console.log('Content directory exists, contents:');
+      this.listDirectoryContents(contentDir, '');
+    } else {
+      console.log('Content directory does not exist at:', contentDir);
+    }
+    
     this.loadContentSchedule();
+  }
+  
+  // Helper method to recursively list directory contents
+  private listDirectoryContents(dir: string, indent: string): void {
+    try {
+      const files = fs.readdirSync(dir);
+      files.forEach(file => {
+        const filePath = path.join(dir, file);
+        const stats = fs.statSync(filePath);
+        if (stats.isDirectory()) {
+          console.log(`${indent}📁 ${file}`);
+          this.listDirectoryContents(filePath, indent + '  ');
+        } else {
+          console.log(`${indent}📄 ${file}`);
+        }
+      });
+    } catch (error) {
+      console.error(`Error listing directory ${dir}:`, error);
+    }
   }
 
   /**
@@ -223,6 +284,22 @@ class ContentService {
   /**
    * Save the content schedule to the JSON file
    */
+  /**
+   * Check if a schedule is loaded
+   * @returns True if a schedule is loaded, false otherwise
+   */
+  hasSchedule(): boolean {
+    return this.contentSchedule !== null;
+  }
+  
+  /**
+   * Get the current content schedule
+   * @returns The current content schedule or null if none is loaded
+   */
+  getSchedule(): ContentSchedule | null {
+    return this.contentSchedule;
+  }
+  
   private saveContentSchedule(): void {
     if (!this.contentSchedule) {
       return;
