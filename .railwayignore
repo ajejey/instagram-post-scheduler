@@ -1,0 +1,8 @@
+# Exclude node_modules and other standard files
+node_modules
+.env
+.env.local
+.DS_Store
+
+# Do NOT exclude the content directory
+# src/content/

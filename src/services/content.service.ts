@@ -53,12 +53,51 @@ class ContentService {
         this.contentSchedule = JSON.parse(data) as ContentSchedule;
         console.log(`Loaded content schedule with ${this.contentSchedule.schedule.length} posts`);
       } else {
-        console.warn('Content schedule file not found. Create one to enable scheduled posting.');
-        this.contentSchedule = null;
+        console.warn('Content schedule file not found. Creating default empty schedule.');
+        // Create directory if it doesn't exist
+        const dir = path.dirname(this.schedulePath);
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+          console.log(`Created directory: ${dir}`);
+        }
+        
+        // Create a default empty schedule
+        const today = new Date();
+        const endDate = new Date(today);
+        endDate.setDate(today.getDate() + 7);
+        
+        this.contentSchedule = {
+          metadata: {
+            weekStartDate: today.toISOString().split('T')[0],
+            weekEndDate: endDate.toISOString().split('T')[0],
+            createdAt: today.toISOString(),
+            updatedAt: today.toISOString(),
+            totalPosts: 0
+          },
+          schedule: []
+        };
+        
+        // Save the default schedule
+        this.saveContentSchedule();
+        console.log('Created default empty content schedule');
       }
     } catch (error) {
       console.error('Error loading content schedule:', error);
-      this.contentSchedule = null;
+      // Still create a default schedule even if there's an error
+      const today = new Date();
+      const endDate = new Date(today);
+      endDate.setDate(today.getDate() + 7);
+      
+      this.contentSchedule = {
+        metadata: {
+          weekStartDate: today.toISOString().split('T')[0],
+          weekEndDate: endDate.toISOString().split('T')[0],
+          createdAt: today.toISOString(),
+          updatedAt: today.toISOString(),
+          totalPosts: 0
+        },
+        schedule: []
+      };
     }
   }
 
@@ -219,6 +258,13 @@ class ContentService {
           __dirname, 
           `../content/archives/week-${this.contentSchedule.metadata.weekStartDate}.json`
         );
+        
+        // Create archives directory if it doesn't exist
+        const archiveDir = path.dirname(archivePath);
+        if (!fs.existsSync(archiveDir)) {
+          fs.mkdirSync(archiveDir, { recursive: true });
+          console.log(`Created archives directory: ${archiveDir}`);
+        }
         
         fs.writeFileSync(
           archivePath, 
