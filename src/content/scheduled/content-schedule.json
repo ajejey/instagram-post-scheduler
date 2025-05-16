@@ -1,0 +1,459 @@
+{
+  "metadata": {
+    "weekStartDate": "2025-05-16",
+    "weekEndDate": "2025-05-22",
+    "createdAt": "2025-05-16T23:38:34+05:30",
+    "updatedAt": "2025-05-16T23:38:34+05:30",
+    "totalPosts": 21
+  },
+  "schedule": [
+    {
+      "id": "post-2025-05-16-1",
+      "date": "2025-05-16",
+      "time": "09:00:00",
+      "type": "carousel",
+      "category": "nutrition-myths",
+      "status": "scheduled",
+      "content": {
+        "title": "🧠 10 Nutrition Myths You Still Believe",
+        "slides": [
+          "Myth 1: Carbs make you fat.",
+          "Myth 2: Eating after 8 PM causes weight gain.",
+          "Myth 3: Fat-free means healthy.",
+          "Myth 4: Detox diets cleanse your body.",
+          "Myth 5: High-protein diets harm your kidneys.",
+          "Myth 6: Snacking leads to weight gain.",
+          "Myth 7: All calories are equal.",
+          "Myth 8: You can out-exercise a bad diet.",
+          "Myth 9: Supplements can replace meals.",
+          "Myth 10: Natural sugars are always healthy."
+        ],
+        "cta": "Track your nutrition accurately with DailyNutritionTracker.com",
+        "caption": "🧠 DEBUNKING 10 COMMON NUTRITION MYTHS 🧠\n\nThese nutrition myths might be sabotaging your health goals:\n\n1️⃣ Carbs don't make you fat - excess calories do\n2️⃣ Eating after 8 PM doesn't cause weight gain - total daily calories matter\n3️⃣ Fat-free isn't healthy - many contain added sugars\n4️⃣ Detox diets don't work - your liver and kidneys do that naturally\n5️⃣ High-protein diets are safe for healthy people\n6️⃣ Healthy snacking prevents overeating\n7️⃣ Not all calories are equal - quality matters\n8️⃣ You can't out-exercise a bad diet\n9️⃣ Supplements can't replace whole foods\n🔟 Even natural sugars should be consumed mindfully\n\nWant to track your nutrition accurately? Visit DailyNutritionTracker.com\n\n#nutrition #healthyeating #nutritionmyths #dietmyths #healthtips"
+      }
+    },
+    {
+      "id": "post-2025-05-16-2",
+      "date": "2025-05-16",
+      "time": "13:00:00",
+      "type": "carousel",
+      "category": "meal-prep",
+      "status": "scheduled",
+      "content": {
+        "title": "🥗 5 Meal Prep Tips for Busy Professionals",
+        "slides": [
+          "Tip 1: Plan your meals for the week",
+          "Tip 2: Batch cook proteins",
+          "Tip 3: Prep vegetables in advance",
+          "Tip 4: Use versatile ingredients",
+          "Tip 5: Invest in quality containers"
+        ],
+        "cta": "Get more meal prep ideas at DailyNutritionTracker.com",
+        "caption": "🥗 MEAL PREP MADE EASY 🥗\n\nStruggling to eat healthy with a busy schedule? These meal prep tips will save you time and keep you on track:\n\n1️⃣ Plan your meals for the week - Sunday planning saves weekday stress\n2️⃣ Batch cook proteins - prepare chicken, tofu, or beans in bulk\n3️⃣ Prep vegetables in advance - wash, chop, and store properly\n4️⃣ Use versatile ingredients - items that work in multiple dishes\n5️⃣ Invest in quality containers - proper storage extends freshness\n\nVisit DailyNutritionTracker.com for more meal prep ideas!\n\n#mealprep #healthyeating #busylifestyle #healthyhabits #timemanagement"
+      }
+    },
+    {
+      "id": "post-2025-05-16-3",
+      "date": "2025-05-16",
+      "time": "18:00:00",
+      "type": "carousel",
+      "category": "protein-sources",
+      "status": "scheduled",
+      "content": {
+        "title": "💪 7 Plant-Based Protein Sources",
+        "slides": [
+          "Source 1: Lentils (18g per cup)",
+          "Source 2: Chickpeas (15g per cup)",
+          "Source 3: Tofu (20g per cup)",
+          "Source 4: Quinoa (8g per cup)",
+          "Source 5: Hemp seeds (10g per 3 tbsp)",
+          "Source 6: Nutritional yeast (8g per 1/4 cup)",
+          "Source 7: Tempeh (31g per cup)"
+        ],
+        "cta": "Track your protein intake with DailyNutritionTracker.com",
+        "caption": "💪 POWER UP WITH PLANTS 💪\n\nYou don't need animal products to get enough protein! Check out these powerful plant-based protein sources:\n\n1️⃣ Lentils - 18g per cup, plus fiber and iron\n2️⃣ Chickpeas - 15g per cup, versatile for many dishes\n3️⃣ Tofu - 20g per cup, takes on the flavor of any dish\n4️⃣ Quinoa - 8g per cup, a complete protein grain\n5️⃣ Hemp seeds - 10g per 3 tbsp, perfect for smoothies\n6️⃣ Nutritional yeast - 8g per 1/4 cup, cheesy flavor\n7️⃣ Tempeh - 31g per cup, fermented for gut health\n\nTrack your protein intake accurately at DailyNutritionTracker.com\n\n#plantbased #veganprotein #plantprotein #nutritioncoach #healthyeating"
+      }
+    },
+    {
+      "id": "post-2025-05-17-1",
+      "date": "2025-05-17",
+      "time": "14:00:00",
+      "type": "carousel",
+      "category": "gut-health",
+      "status": "scheduled",
+      "content": {
+        "title": "🦠 5 Shocking Ways Your Gut Microbiome Controls Your Life",
+        "slides": [
+          "1: Your gut produces 95% of your serotonin (happiness hormone)",
+          "2: Gut bacteria can influence your food cravings",
+          "3: 70% of your immune system lives in your gut",
+          "4: Gut health affects your skin appearance",
+          "5: Your microbiome can impact how you respond to stress"
+        ],
+        "cta": "Improve your gut health with DailyNutritionTracker.com",
+        "caption": "🦠 YOUR GUT CONTROLS MORE THAN YOU THINK 🦠\n\nThe latest research from 2025 shows your gut microbiome is basically your second brain! Here's what scientists have discovered:\n\n1️⃣ Your gut produces 95% of your body's serotonin - the happiness hormone that regulates mood\n2️⃣ Certain gut bacteria can actually manipulate what foods you crave (mind-blowing!)\n3️⃣ 70% of your immune system resides in your gut lining\n4️⃣ Poor gut health = inflammation = skin problems (acne, eczema, premature aging)\n5️⃣ Your microbiome diversity directly impacts how you handle stress\n\nThe 2025 Probiota conference revealed these connections are even stronger than previously thought!\n\nTrack your fiber intake (key for gut health) at DailyNutritionTracker.com\n\n#guthealth #microbiome #nutrition #wellness #immunesystem #mentalhealth #skinhealth"
+      }
+    },
+    {
+      "id": "post-2025-05-17-2",
+      "date": "2025-05-17",
+      "time": "17:00:00",
+      "type": "carousel",
+      "category": "fasting",
+      "status": "scheduled",
+      "content": {
+        "title": "⏰ Intermittent Fasting: The Truth Behind the Trend",
+        "slides": [
+          "Myth 1: All fasting protocols are equally effective",
+          "Myth 2: Longer fasting windows are always better",
+          "Myth 3: Everyone should try intermittent fasting",
+          "Myth 4: Fasting is just about weight loss",
+          "Myth 5: You can eat whatever you want during eating windows",
+          "Truth: 10-hour eating windows show best results in 2025 research"
+        ],
+        "cta": "Track your eating windows with DailyNutritionTracker.com",
+        "caption": "⏰ INTERMITTENT FASTING: SEPARATING FACT FROM FICTION ⏰\n\nBreaking 2025 research from The Lancet reveals surprising truths about intermittent fasting:\n\n❌ Myth 1: All fasting protocols work the same\n✅ Truth: 10-hour eating windows show best metabolic benefits without the downsides\n\n❌ Myth 2: Longer fasting = better results\n✅ Truth: New research shows 8-hour windows may increase cardiovascular risk by 91%!\n\n❌ Myth 3: Everyone should try fasting\n✅ Truth: Not recommended for pregnant women, those with history of eating disorders, or certain medical conditions\n\n❌ Myth 4: Fasting is just for weight loss\n✅ Truth: Proper protocols improve insulin sensitivity, cellular repair, and inflammation markers\n\n❌ Myth 5: Eat whatever during eating windows\n✅ Truth: Food quality still matters - nutrient-dense choices maximize benefits\n\nTrack your eating windows and nutrition at DailyNutritionTracker.com\n\n#intermittentfasting #timerestrictedeating #metabolichealth #nutrition #weightloss #research"
+      }
+    },
+    {
+      "id": "post-2025-05-17-3",
+      "date": "2025-05-17",
+      "time": "00:00:00",
+      "type": "carousel",
+      "category": "protein-innovation",
+      "status": "scheduled",
+      "content": {
+        "title": "🔬 5 Mind-Blowing Protein Innovations of 2025",
+        "slides": [
+          "Innovation 1: Fava bean protein with meat-identical texture",
+          "Innovation 2: Mycoprotein grown on food waste (35g protein/100g)",
+          "Innovation 3: Algae protein with complete amino acid profile",
+          "Innovation 4: AI-designed protein molecules with superior absorption",
+          "Innovation 5: Fermented hybrid proteins with probiotic benefits"
+        ],
+        "cta": "Track your protein diversity with DailyNutritionTracker.com",
+        "caption": "🔬 THE PROTEIN REVOLUTION IS HERE 🔬\n\nForget everything you know about protein - these 2025 innovations are changing the game:\n\n1️⃣ Fava bean protein with revolutionary extrusion tech creates meat-identical texture (no more mushy alternatives!)\n\n2️⃣ Mycoprotein grown on food waste provides 35g protein per 100g with 40% lower environmental impact\n\n3️⃣ Algae protein delivers all 9 essential amino acids plus omega-3s in a single source\n\n4️⃣ AI-designed protein molecules with 28% higher absorption rates than traditional sources\n\n5️⃣ Fermented hybrid proteins combine plant sources with probiotic benefits for gut health\n\nWageningen University researchers predict these will make up 30% of protein consumption by 2030!\n\nTrack your protein diversity score at DailyNutritionTracker.com\n\n#proteininnovation #futureoffood #sustainableprotein #plantbased #foodtech #nutrition"
+      }
+    },
+    {
+      "id": "post-2025-05-18-1",
+      "date": "2025-05-18",
+      "time": "14:00:00",
+      "type": "carousel",
+      "category": "glucose-monitoring",
+      "status": "scheduled",
+      "content": {
+        "title": "📈 What Your Glucose Spikes Are Telling You",
+        "slides": [
+          "Sign 1: Morning spike without food = Cortisol impact",
+          "Sign 2: Crash 2-3 hours after meals = Insulin resistance risk",
+          "Sign 3: Minimal movement after protein/fat = Metabolic flexibility",
+          "Sign 4: Exercise causes glucose rise = Stress hormone response",
+          "Sign 5: Poor sleep = Next-day glucose dysregulation",
+          "Sign 6: Different response to same food = Personalized nutrition need"
+        ],
+        "cta": "Track your nutrition's impact with DailyNutritionTracker.com",
+        "caption": "📈 DECODE YOUR GLUCOSE PATTERNS 📈\n\nContinuous glucose monitoring is 2025's biggest wellness trend - here's what your glucose patterns reveal:\n\n1️⃣ Morning spike without food? That's cortisol (stress hormone) at work\n\n2️⃣ Crash 2-3 hours after meals? Early sign of insulin resistance risk\n\n3️⃣ Minimal movement after protein/fat meals? You have good metabolic flexibility\n\n4️⃣ Exercise causing glucose rise? Normal stress hormone response (not concerning)\n\n5️⃣ Poor sleep = Next-day glucose dysregulation (even with identical meals)\n\n6️⃣ Different response to same food on different days? Your microbiome and stress levels are key factors\n\nNew research from Oura and Dexcom shows glucose patterns predict health outcomes better than any other single marker!\n\nTrack your nutrition's impact at DailyNutritionTracker.com\n\n#glucosemonitoring #metabolichealth #nutrition #biohacking #personalizenutrition #wellness"
+      }
+    },
+    {
+      "id": "post-2025-05-18-2",
+      "date": "2025-05-18",
+      "time": "17:00:00",
+      "type": "carousel",
+      "category": "longevity",
+      "status": "scheduled",
+      "content": {
+        "title": "⏳ 7 Foods That Activate Your Longevity Pathways",
+        "slides": [
+          "Food 1: Broccoli sprouts (sulforaphane activates NRF2)",
+          "Food 2: Wild blueberries (pterostilbene activates sirtuins)",
+          "Food 3: Extra virgin olive oil (oleocanthal reduces inflammation)",
+          "Food 4: Mushrooms (ergothioneine protects mitochondria)",
+          "Food 5: Pomegranate (urolithin A enhances mitophagy)",
+          "Food 6: Turmeric (curcumin activates AMPK pathway)",
+          "Food 7: Green tea (EGCG promotes autophagy)"
+        ],
+        "cta": "Track your longevity nutrients with DailyNutritionTracker.com",
+        "caption": "⏳ ACTIVATE YOUR LONGEVITY SWITCHES ⏳\n\nGroundbreaking 2025 research reveals these foods contain compounds that literally turn on your body's longevity pathways:\n\n1️⃣ Broccoli sprouts: Sulforaphane activates NRF2 (master regulator of antioxidant response)\n\n2️⃣ Wild blueberries: Pterostilbene activates sirtuins (the same pathway as fasting!)\n\n3️⃣ Extra virgin olive oil: Oleocanthal reduces inflammation comparable to low-dose ibuprofen\n\n4️⃣ Mushrooms: Ergothioneine protects mitochondria (your cellular batteries)\n\n5️⃣ Pomegranate: Urolithin A enhances mitophagy (cellular cleanup process)\n\n6️⃣ Turmeric: Curcumin activates AMPK pathway (cellular energy sensor)\n\n7️⃣ Green tea: EGCG promotes autophagy (cellular recycling)\n\nHarvard researchers found people consuming 5+ of these weekly had biological ages 3.4 years younger than chronological age!\n\nTrack your longevity nutrients at DailyNutritionTracker.com\n\n#longevity #antiaging #nutrigenomics #healthspan #nutrition #foodasmedicine"
+      }
+    },
+    {
+      "id": "post-2025-05-18-3",
+      "date": "2025-05-18",
+      "time": "00:00:00",
+      "type": "carousel",
+      "category": "brain-food",
+      "status": "scheduled",
+      "content": {
+        "title": "🧠 Eat These 6 Foods to Boost Your Brain Power",
+        "slides": [
+          "Brain Food 1: Fatty fish (DHA for neural membranes)",
+          "Brain Food 2: Eggs (choline for neurotransmitter production)",
+          "Brain Food 3: Blueberries (flavonoids for neurogenesis)",
+          "Brain Food 4: Dark chocolate (flavanols improve blood flow)",
+          "Brain Food 5: Pumpkin seeds (zinc and magnesium for synapse function)",
+          "Brain Food 6: Fermented foods (microbiome-gut-brain axis support)"
+        ],
+        "cta": "Track your brain nutrition with DailyNutritionTracker.com",
+        "caption": "🧠 FEED YOUR BRAIN, UPGRADE YOUR MIND 🧠\n\nNew cognitive nutrition research from 2025 shows these foods literally build better brain function:\n\n1️⃣ Fatty fish: DHA omega-3s form neural membranes and reduce brain inflammation\n\n2️⃣ Eggs: Choline is essential for acetylcholine production (memory neurotransmitter)\n\n3️⃣ Blueberries: Flavonoids stimulate neurogenesis (new brain cell formation)\n\n4️⃣ Dark chocolate (70%+): Flavanols improve cerebral blood flow by 10-15%\n\n5️⃣ Pumpkin seeds: Zinc + magnesium combo optimizes synapse function\n\n6️⃣ Fermented foods: Support microbiome-gut-brain axis (90% of serotonin is produced in gut)\n\nA 2025 UCLA study found participants consuming these foods 4+ times weekly showed 32% better cognitive performance and reduced brain fog!\n\nTrack your brain nutrition at DailyNutritionTracker.com\n\n#brainfood #cognitivenutrition #brainhealth #nutrition #mentalclarity #neurogenesis #focus"
+      }
+    },
+    {
+      "id": "post-2025-05-19-1",
+      "date": "2025-05-19",
+      "time": "14:00:00",
+      "type": "carousel",
+      "category": "regenerative-agriculture",
+      "status": "scheduled",
+      "content": {
+        "title": "🌱 Why Regenerative Agriculture Is the Future of Food",
+        "slides": [
+          "Benefit 1: Captures 5-20x more carbon than conventional farming",
+          "Benefit 2: Creates soil with 3-8x more nutrients in food",
+          "Benefit 3: Requires 45% less water than conventional farming",
+          "Benefit 4: Increases biodiversity by 60-80% on farmland",
+          "Benefit 5: Produces food with higher polyphenol content",
+          "Benefit 6: Creates climate-resilient food systems"
+        ],
+        "cta": "Track nutrient-dense foods with DailyNutritionTracker.com",
+        "caption": "🌱 BEYOND ORGANIC: THE REGENERATIVE REVOLUTION 🌱\n\n2025's biggest food system shift isn't just about sustainability—it's about regeneration! Here's why it matters for your health:\n\n1️⃣ Captures 5-20x more carbon than conventional farming (climate positive food!)\n\n2️⃣ Creates soil with 3-8x more nutrients, meaning more nutritious food on your plate\n\n3️⃣ Requires 45% less water - critical as water scarcity increases globally\n\n4️⃣ Increases biodiversity by 60-80% on farmland, protecting our food future\n\n5️⃣ Produces food with higher polyphenol content (powerful antioxidants)\n\n6️⃣ Creates climate-resilient food systems that can withstand extreme weather\n\nA 2025 study in Nature found regeneratively-grown foods contained up to 34% more antioxidants and key minerals!\n\nTrack nutrient-dense foods at DailyNutritionTracker.com\n\n#regenerativeagriculture #sustainablenutrition #nutrientdensity #climatepositivefoods #foodasmedicine"
+      }
+    },
+    {
+      "id": "post-2025-05-19-2",
+      "date": "2025-05-19",
+      "time": "17:00:00",
+      "type": "carousel",
+      "category": "adaptogens",
+      "status": "scheduled",
+      "content": {
+        "title": "🌿 6 Adaptogens That Actually Work (According to Science)",
+        "slides": [
+          "Adaptogen 1: Ashwagandha (reduces cortisol by 23%)",
+          "Adaptogen 2: Rhodiola (improves mental fatigue within 1 week)",
+          "Adaptogen 3: Reishi mushroom (modulates immune function)",
+          "Adaptogen 4: Holy Basil (balances blood sugar and mood)",
+          "Adaptogen 5: Cordyceps (increases oxygen utilization by 9-15%)",
+          "Adaptogen 6: Panax Ginseng (improves cognitive performance)"
+        ],
+        "cta": "Track your stress-management with DailyNutritionTracker.com",
+        "caption": "🌿 ADAPTOGENS: ANCIENT WISDOM MEETS MODERN SCIENCE 🌿\n\nThese stress-fighting superherbs are 2025's biggest functional food trend! Here's what clinical research actually supports:\n\n1️⃣ Ashwagandha: Reduces cortisol by 23% in 8 weeks (clinically significant for stress)\n\n2️⃣ Rhodiola: Improves mental fatigue within just 1 week of consistent use\n\n3️⃣ Reishi mushroom: Modulates immune function and improves sleep quality\n\n4️⃣ Holy Basil: Balances blood sugar and mood (comparable to some medications)\n\n5️⃣ Cordyceps: Increases oxygen utilization by 9-15% (athletic performance boost)\n\n6️⃣ Panax Ginseng: Improves cognitive performance and reaction time\n\nA 2025 meta-analysis of 47 studies found these adaptogens had measurable physiological effects beyond placebo!\n\nTrack your stress-management tools at DailyNutritionTracker.com\n\n#adaptogens #stressmanagement #functionalfoods #naturalhealth #immunesupport #cognitiveboost"
+      }
+    },
+    {
+      "id": "post-2025-05-19-3",
+      "date": "2025-05-19",
+      "time": "00:00:00",
+      "type": "carousel",
+      "category": "womens-health",
+      "status": "scheduled",
+      "content": {
+        "title": "💊 Eat According to Your Cycle: Hormone-Balancing Foods",
+        "slides": [
+          "Follicular Phase: Cruciferous vegetables (support estrogen metabolism)",
+          "Ovulatory Phase: Antioxidant-rich berries (support egg quality)",
+          "Luteal Phase: Magnesium-rich foods (reduce PMS symptoms by 35%)",
+          "Menstrual Phase: Iron-rich foods (replenish lost minerals)",
+          "Perimenopause: Phytoestrogen foods (reduce hot flashes by 45%)",
+          "All Phases: Omega-3 rich foods (reduce inflammation throughout cycle)"
+        ],
+        "cta": "Track your cycle nutrition with DailyNutritionTracker.com",
+        "caption": "💊 CYCLE SYNCING: NUTRITION TAILORED TO YOUR HORMONES 💊\n\nBreakthrough 2025 research shows eating according to your hormonal phases can transform your health! Here's your science-backed guide:\n\n1️⃣ Follicular Phase (days 1-14):\nFocus on cruciferous veggies like broccoli and kale to support healthy estrogen metabolism\n\n2️⃣ Ovulatory Phase (day 14-16):\nAntioxidant-rich berries support egg quality and reduce oxidative stress\n\n3️⃣ Luteal Phase (days 16-28):\nMagnesium-rich foods like dark chocolate and pumpkin seeds reduce PMS symptoms by 35%\n\n4️⃣ Menstrual Phase (days 1-5):\nIron-rich foods like lentils and spinach replenish lost minerals\n\n5️⃣ Perimenopause:\nPhytoestrogen foods like flaxseeds and tofu reduce hot flashes by 45%\n\n6️⃣ All Phases:\nOmega-3 rich foods reduce inflammation throughout your cycle\n\nA 2025 study found women who practiced cycle syncing reported 68% fewer hormonal symptoms!\n\nTrack your cycle nutrition at DailyNutritionTracker.com\n\n#cyclesyncing #hormonalhealth #womenshealth #nutritionforwomen #periodhealth #hormonebalance"
+      }
+    },
+    {
+      "id": "post-2025-05-20-1",
+      "date": "2025-05-20",
+      "time": "14:00:00",
+      "type": "carousel",
+      "category": "precision-nutrition",
+      "status": "scheduled",
+      "content": {
+        "title": "🔬 Why Your DNA Should Determine Your Diet",
+        "slides": [
+          "Gene 1: FTO (affects how you process carbohydrates)",
+          "Gene 2: MTHFR (determines folate metabolism efficiency)",
+          "Gene 3: APOE (influences fat metabolism and cardiovascular risk)",
+          "Gene 4: CYP1A2 (determines caffeine metabolism speed)",
+          "Gene 5: TCF7L2 (affects blood sugar regulation)",
+          "Gene 6: PPAR-gamma (influences insulin sensitivity)"
+        ],
+        "cta": "Personalize your nutrition with DailyNutritionTracker.com",
+        "caption": "🔬 PRECISION NUTRITION: YOUR DNA IS YOUR DIET BLUEPRINT 🔬\n\n2025's biggest nutrition breakthrough: Your genes determine how you respond to foods! Here's what your DNA reveals:\n\n1️⃣ FTO gene: Determines if you're more likely to gain weight from carbs or fats\n\n2️⃣ MTHFR gene: 40% of people have a variant requiring special forms of B vitamins\n\n3️⃣ APOE gene: Reveals if you need a low-fat diet (E4 variant) or can thrive on healthy fats\n\n4️⃣ CYP1A2 gene: Shows if you're a fast or slow caffeine metabolizer (affects heart health)\n\n5️⃣ TCF7L2 gene: Indicates your personal carb tolerance and diabetes risk\n\n6️⃣ PPAR-gamma gene: Determines your ideal macronutrient ratio for insulin sensitivity\n\nA 2025 Stanford study found personalized nutrition based on genetic testing led to 5.3x better outcomes than one-size-fits-all diets!\n\nPersonalize your nutrition at DailyNutritionTracker.com\n\n#precisionnutrition #nutrigenomics #personalizedhealth #dnabaseddiet #genetictesting #nutritionscience"
+      }
+    },
+    {
+      "id": "post-2025-05-20-2",
+      "date": "2025-05-20",
+      "time": "17:00:00",
+      "type": "carousel",
+      "category": "mental-nutrition",
+      "status": "scheduled",
+      "content": {
+        "title": "😊 7 Foods Scientifically Proven to Boost Your Mood",
+        "slides": [
+          "Mood Food 1: Dark chocolate (increases serotonin within 40 minutes)",
+          "Mood Food 2: Fatty fish (omega-3s reduce depression risk by 17%)",
+          "Mood Food 3: Fermented foods (improve gut-brain axis signaling)",
+          "Mood Food 4: Saffron (as effective as Prozac in mild depression)",
+          "Mood Food 5: Leafy greens (folate deficiency linked to depression)",
+          "Mood Food 6: Nuts and seeds (magnesium deficiency causes anxiety)",
+          "Mood Food 7: Turmeric (curcumin increases BDNF and dopamine)"
+        ],
+        "cta": "Track your mood-boosting foods with DailyNutritionTracker.com",
+        "caption": "😊 EAT HAPPY: FOODS THAT TRANSFORM YOUR MENTAL HEALTH 😊\n\nGroundbreaking 2025 research from the field of nutritional psychiatry reveals these foods are literal antidepressants on your plate:\n\n1️⃣ Dark chocolate (70%+): Increases serotonin and endorphins within 40 minutes of consumption\n\n2️⃣ Fatty fish: Omega-3s reduce depression risk by 17% and improve medication effectiveness\n\n3️⃣ Fermented foods: Probiotics improve gut-brain axis signaling (90% of serotonin is produced in gut)\n\n4️⃣ Saffron: Clinical trials show it's as effective as Prozac for mild-to-moderate depression\n\n5️⃣ Leafy greens: Folate deficiency is linked to treatment-resistant depression\n\n6️⃣ Nuts and seeds: Magnesium deficiency is present in 95% of anxiety disorders\n\n7️⃣ Turmeric: Curcumin increases BDNF (brain growth factor) and dopamine production\n\nA 2025 meta-analysis found people who ate these foods 4+ times weekly had 32% lower rates of depression!\n\nTrack your mood-boosting foods at DailyNutritionTracker.com\n\n#nutritionalpsychiatry #moodfood #mentalhealth #depressiondiet #anxietyrelief #brainfood"
+      }
+    },
+    {
+      "id": "post-2025-05-20-3",
+      "date": "2025-05-20",
+      "time": "00:00:00",
+      "type": "carousel",
+      "category": "anti-inflammatory",
+      "status": "scheduled",
+      "content": {
+        "title": "🔥 8 Most Inflammatory Foods You're Eating Daily",
+        "slides": [
+          "Inflammatory Food 1: Seed oils (high omega-6 content)",
+          "Inflammatory Food 2: Ultra-processed foods (chemical additives)",
+          "Inflammatory Food 3: Refined sugar (triggers cytokine release)",
+          "Inflammatory Food 4: Conventional dairy (A1 casein protein)",
+          "Inflammatory Food 5: Gluten (intestinal permeability in sensitive people)",
+          "Inflammatory Food 6: Artificial sweeteners (disrupt gut microbiome)",
+          "Inflammatory Food 7: Processed meats (nitrates and advanced glycation end products)",
+          "Inflammatory Food 8: Alcohol (liver stress and gut barrier disruption)"
+        ],
+        "cta": "Track your inflammation triggers with DailyNutritionTracker.com",
+        "caption": "🔥 INFLAMMATION ALERT: FOODS SILENTLY DAMAGING YOUR HEALTH 🔥\n\nNew 2025 research reveals chronic inflammation is behind 7 of the top 10 causes of death. These common foods are the biggest culprits:\n\n1️⃣ Seed oils (soybean, corn, canola): High omega-6 content creates pro-inflammatory eicosanoids\n\n2️⃣ Ultra-processed foods: Chemical additives trigger immune activation and intestinal inflammation\n\n3️⃣ Refined sugar: Triggers cytokine release and advanced glycation end products (AGEs)\n\n4️⃣ Conventional dairy: A1 casein protein causes inflammatory response in sensitive individuals\n\n5️⃣ Gluten: Causes intestinal permeability (leaky gut) in sensitive people, leading to systemic inflammation\n\n6️⃣ Artificial sweeteners: Disrupt gut microbiome and trigger glucose intolerance\n\n7️⃣ Processed meats: Nitrates and AGEs trigger oxidative stress and inflammation\n\n8️⃣ Alcohol: Causes liver stress and gut barrier disruption, leading to endotoxin release\n\nA 2025 study found eliminating these foods reduced inflammatory markers by up to 47% in just 30 days!\n\nTrack your inflammation triggers at DailyNutritionTracker.com\n\n#antiinflammatory #inflammationreduction #chronicinflammation #guthealth #autoimmune #inflammatorytriggers"
+      }
+    },
+    {
+      "id": "post-2025-05-21-1",
+      "date": "2025-05-21",
+      "time": "14:00:00",
+      "type": "carousel",
+      "category": "superfoods",
+      "status": "scheduled",
+      "content": {
+        "title": "🌿 5 Ancient Superfoods Making a Comeback in 2025",
+        "slides": [
+          "Superfood 1: Moringa (more calcium than milk, more vitamin C than oranges)",
+          "Superfood 2: Tigernuts (prebiotic fiber and resistant starch)",
+          "Superfood 3: Black seed oil (thymoquinone for immune support)",
+          "Superfood 4: Teff (complete protein with all 9 essential amino acids)",
+          "Superfood 5: Sea moss (92 of 102 minerals the body needs)"
+        ],
+        "cta": "Track your superfood nutrition with DailyNutritionTracker.com",
+        "caption": "🌿 ANCIENT WISDOM, MODERN SCIENCE: FORGOTTEN SUPERFOODS 🌿\n\n2025's nutrition rediscoveries: These ancient foods are making a comeback with science-backed benefits:\n\n1️⃣ Moringa: Called the 'miracle tree' with 7x more vitamin C than oranges, 4x more calcium than milk, and 2x more protein than yogurt\n\n2️⃣ Tigernuts: Not nuts but tubers, packed with prebiotic fiber and resistant starch that feeds beneficial gut bacteria\n\n3️⃣ Black seed oil: Contains thymoquinone, a compound with powerful immune-modulating and anti-inflammatory properties\n\n4️⃣ Teff: The world's smallest grain is a complete protein with all 9 essential amino acids and exceptional iron content\n\n5️⃣ Sea moss: Contains 92 of the 102 minerals the human body needs, supporting thyroid function and immune health\n\nA 2025 review in the Journal of Ethnopharmacology validated the traditional uses of these foods with modern clinical evidence!\n\nTrack your superfood nutrition at DailyNutritionTracker.com\n\n#ancientfoods #superfoods #traditionalnutrition #nutrientdensity #functionalfoods #immunesupport"
+      }
+    },
+    {
+      "id": "post-2025-05-21-2",
+      "date": "2025-05-21",
+      "time": "17:00:00",
+      "type": "carousel",
+      "category": "hydration",
+      "status": "scheduled",
+      "content": {
+        "title": "💧 Hydration Hacks: Beyond 8 Glasses a Day",
+        "slides": [
+          "Hack 1: Electrolyte timing (sodium before exercise, potassium after)",
+          "Hack 2: Structured water from fruits and vegetables (superior hydration)",
+          "Hack 3: Hydration tracking (urine color is more accurate than thirst)",
+          "Hack 4: Front-loading water (70% before 3pm improves cognition)",
+          "Hack 5: Temperature matters (cold water for exercise, warm for digestion)",
+          "Hack 6: Hydration enhancers (minerals that improve cellular absorption)"
+        ],
+        "cta": "Track your hydration with DailyNutritionTracker.com",
+        "caption": "💧 HYDRATION SCIENCE: BEYOND 8 GLASSES A DAY 💧\n\n2025 hydration research reveals it's not just about quantity—it's about strategy! Here's what you need to know:\n\n1️⃣ Electrolyte timing: Sodium before exercise prevents cramps, potassium after replenishes what's lost\n\n2️⃣ Structured water from fruits and vegetables provides superior cellular hydration compared to plain water\n\n3️⃣ Hydration tracking: By the time you feel thirsty, you're already 2% dehydrated (cognitive impact). Use urine color instead!\n\n4️⃣ Front-loading water: Consuming 70% of your daily water before 3pm improves cognitive performance by 14%\n\n5️⃣ Temperature matters: Cold water is absorbed faster during exercise, while room temperature or warm water supports digestion\n\n6️⃣ Hydration enhancers: Minerals like magnesium and trace minerals improve cellular water absorption by up to 25%\n\nA 2025 study found optimized hydration strategies improved cognitive performance, skin health, and athletic recovery by 30%!\n\nTrack your hydration at DailyNutritionTracker.com\n\n#hydrationscience #waterintake #electrolytes #cognitiveperformance #athleticrecovery #structuredwater"
+      }
+    },
+    {
+      "id": "post-2025-05-21-3",
+      "date": "2025-05-21",
+      "time": "00:00:00",
+      "type": "carousel",
+      "category": "food-synergy",
+      "status": "scheduled",
+      "content": {
+        "title": "🧵 7 Food Combinations That Multiply Nutrient Absorption",
+        "slides": [
+          "Combo 1: Turmeric + Black Pepper (increases curcumin absorption by 2000%)",
+          "Combo 2: Vitamin C + Iron (improves non-heme iron absorption by 300%)",
+          "Combo 3: Fat + Fat-Soluble Vitamins (essential for A, D, E, K absorption)",
+          "Combo 4: Prebiotics + Probiotics (synbiotic effect for gut health)",
+          "Combo 5: Complementary Proteins (rice + beans = complete amino acid profile)",
+          "Combo 6: Green Tea + Lemon (increases catechin absorption by 80%)",
+          "Combo 7: Tomatoes + Olive Oil (lycopene absorption increases 4x)"
+        ],
+        "cta": "Track your food combinations with DailyNutritionTracker.com",
+        "caption": "🧵 FOOD SYNERGY: COMBINATIONS THAT MULTIPLY BENEFITS 🧵\n\nBreakthrough 2025 research shows it's not just what you eat—it's how you combine foods that maximizes nutrition!\n\n1️⃣ Turmeric + Black Pepper: Piperine increases curcumin absorption by an astounding 2000%\n\n2️⃣ Vitamin C + Iron: Adding lemon to spinach improves non-heme iron absorption by 300%\n\n3️⃣ Fat + Fat-Soluble Vitamins: Avocado with carrots increases vitamin A absorption by 400%\n\n4️⃣ Prebiotics + Probiotics: Combining fiber-rich foods with fermented foods creates a synbiotic effect for gut health\n\n5️⃣ Complementary Proteins: Rice + beans creates a complete amino acid profile (traditional wisdom validated!)\n\n6️⃣ Green Tea + Lemon: Vitamin C increases catechin absorption by 80%, maximizing antioxidant benefits\n\n7️⃣ Tomatoes + Olive Oil: Cooking tomatoes in olive oil increases lycopene absorption 4x for prostate and heart health\n\nA 2025 study found strategic food pairing increased nutrient absorption by an average of 65% compared to eating foods separately!\n\nTrack your food combinations at DailyNutritionTracker.com\n\n#foodsynergy #nutrientabsorption #foodpairing #nutritionscience #functionalnutrition #bioavailability"
+      }
+    },
+    {
+      "id": "post-2025-05-22-1",
+      "date": "2025-05-22",
+      "time": "14:00:00",
+      "type": "carousel",
+      "category": "sleep-nutrition",
+      "status": "scheduled",
+      "content": {
+        "title": "😴 6 Foods That Transform Your Sleep Quality",
+        "slides": [
+          "Sleep Food 1: Tart cherries (natural melatonin source)",
+          "Sleep Food 2: Kiwi fruit (improves sleep onset by 42%)",
+          "Sleep Food 3: Fatty fish (vitamin D and omega-3 for deep sleep)",
+          "Sleep Food 4: Glycine-rich foods (collagen, bone broth for REM sleep)",
+          "Sleep Food 5: Magnesium-rich foods (regulate neurotransmitters)",
+          "Sleep Food 6: Prebiotic foods (feed sleep-promoting gut bacteria)"
+        ],
+        "cta": "Track your sleep nutrition with DailyNutritionTracker.com",
+        "caption": "😴 EAT YOUR WAY TO BETTER SLEEP 😴\n\nGroundbreaking 2025 sleep research reveals these foods contain compounds that literally transform your sleep architecture:\n\n1️⃣ Tart cherries: Natural melatonin source shown to increase sleep duration by 84 minutes in clinical trials\n\n2️⃣ Kiwi fruit: Two kiwis one hour before bed improved sleep onset by 42% and total sleep time by 13%\n\n3️⃣ Fatty fish: Vitamin D and omega-3 combination increases deep sleep phases by 26% (where physical restoration happens)\n\n4️⃣ Glycine-rich foods (collagen, bone broth): Glycine improves REM sleep quality and reduces daytime fatigue by 21%\n\n5️⃣ Magnesium-rich foods (pumpkin seeds, spinach): Regulate GABA and melatonin production for faster sleep onset\n\n6️⃣ Prebiotic foods (garlic, onions, asparagus): Feed gut bacteria that produce sleep-regulating neurotransmitters\n\nA 2025 chronobiology study found consuming these foods improved sleep quality scores by 31% and next-day cognitive performance by 27%!\n\nTrack your sleep nutrition at DailyNutritionTracker.com\n\n#sleepnutrition #bettersleep #nutritionscience #chronobiology #circadianrhythm #sleepquality"
+      }
+    },
+    {
+      "id": "post-2025-05-22-2",
+      "date": "2025-05-22",
+      "time": "17:00:00",
+      "type": "carousel",
+      "category": "athletic-recovery",
+      "status": "scheduled",
+      "content": {
+        "title": "🏋️ 7 Post-Workout Recovery Foods Backed by Science",
+        "slides": [
+          "Recovery Food 1: Tart cherry juice (reduces muscle soreness by 49%)",
+          "Recovery Food 2: Whey protein + leucine (triggers MPS within 30 minutes)",
+          "Recovery Food 3: Watermelon (l-citrulline reduces recovery time)",
+          "Recovery Food 4: Turmeric (reduces inflammatory markers by 25%)",
+          "Recovery Food 5: Omega-3 rich foods (reduce exercise-induced inflammation)",
+          "Recovery Food 6: Antioxidant-rich berries (combat exercise-induced oxidative stress)",
+          "Recovery Food 7: Fermented foods (improve gut-muscle axis recovery signals)"
+        ],
+        "cta": "Track your recovery nutrition with DailyNutritionTracker.com",
+        "caption": "🏋️ SCIENCE-BACKED RECOVERY NUTRITION 🏋️\n\nNew 2025 sports nutrition research reveals these foods contain specific compounds that accelerate recovery and enhance adaptation:\n\n1️⃣ Tart cherry juice: Anthocyanins reduce muscle soreness by 49% and accelerate strength recovery\n\n2️⃣ Whey protein + leucine: Triggers muscle protein synthesis within 30 minutes and sustains it for 3-5 hours\n\n3️⃣ Watermelon: L-citrulline improves blood flow to muscles and reduces recovery time by 24%\n\n4️⃣ Turmeric: Curcumin reduces inflammatory markers by 25% and accelerates tissue repair\n\n5️⃣ Omega-3 rich foods: EPA and DHA reduce exercise-induced inflammation and enhance anabolic response\n\n6️⃣ Antioxidant-rich berries: Combat exercise-induced oxidative stress without blunting adaptation signals\n\n7️⃣ Fermented foods: Improve gut-muscle axis recovery signals and enhance nutrient absorption\n\nA 2025 study from the International Journal of Sport Nutrition found athletes using these recovery foods returned to peak performance 41% faster than control groups!\n\nTrack your recovery nutrition at DailyNutritionTracker.com\n\n#recoverynutrition #sportsnutrition #performancenutrition #musclerecovery #athleticperformance #exercisescience"
+      }
+    },
+    {
+      "id": "post-2025-05-22-3",
+      "date": "2025-05-22",
+      "time": "00:00:00",
+      "type": "carousel",
+      "category": "chrono-nutrition",
+      "status": "scheduled",
+      "content": {
+        "title": "⏰ Meal Timing: The Missing Piece of Your Nutrition Puzzle",
+        "slides": [
+          "Timing Principle 1: Protein distribution (25-30g every 4-5 hours)",
+          "Timing Principle 2: Carb timing (higher at breakfast improves insulin sensitivity)",
+          "Timing Principle 3: Circadian eating (80% of calories before 3pm)",
+          "Timing Principle 4: Exercise nutrition windows (pre/intra/post timing)",
+          "Timing Principle 5: Fasting periods (12-14 hours overnight)",
+          "Timing Principle 6: Chronotype matching (early bird vs. night owl metabolism)"
+        ],
+        "cta": "Track your meal timing with DailyNutritionTracker.com",
+        "caption": "⏰ CHRONO-NUTRITION: WHEN YOU EAT MATTERS AS MUCH AS WHAT YOU EAT ⏰\n\nBreakthrough 2025 research from the field of chrono-nutrition reveals meal timing is the missing piece of your nutrition puzzle:\n\n1️⃣ Protein distribution: 25-30g every 4-5 hours optimizes muscle protein synthesis (better than large single doses)\n\n2️⃣ Carb timing: Higher carb intake at breakfast improves insulin sensitivity by 31% compared to identical carbs at dinner\n\n3️⃣ Circadian eating: Consuming 80% of calories before 3pm improves metabolic flexibility and fat oxidation by 37%\n\n4️⃣ Exercise nutrition windows: Specific pre/intra/post workout timing can increase performance and recovery by up to 27%\n\n5️⃣ Fasting periods: 12-14 hour overnight fasts align with circadian rhythms and improve cellular cleanup processes\n\n6️⃣ Chronotype matching: Early birds and night owls have different optimal meal timing windows (genetic differences in metabolism)\n\nA 2025 study in Cell Metabolism found matching meal timing to individual chronobiology improved metabolic markers by 42% compared to standard dietary advice!\n\nTrack your meal timing at DailyNutritionTracker.com\n\n#chrononutrition #mealtiming #circadianrhythm #metabolichealth #personalizenutrition #timerestricted"
+      }
+    }
+  ]
+}
