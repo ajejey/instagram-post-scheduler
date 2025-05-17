@@ -102,7 +102,7 @@
       "category": "fasting",
       "status": "scheduled",
       "content": {
-        "title": "⏰ Intermittent Fasting: The Truth Behind the Trend",
+        "title": "Intermittent Fasting: The Truth Behind the Trend",
         "slides": [
           "Myth 1: All fasting protocols are equally effective",
           "Myth 2: Longer fasting windows are always better",
@@ -123,7 +123,7 @@
       "category": "protein-innovation",
       "status": "scheduled",
       "content": {
-        "title": "🔬 5 Mind-Blowing Protein Innovations of 2025",
+        "title": "5 Mind-Blowing Protein Innovations of 2025",
         "slides": [
           "Innovation 1: Fava bean protein with meat-identical texture",
           "Innovation 2: Mycoprotein grown on food waste (35g protein/100g)",
@@ -143,7 +143,7 @@
       "category": "glucose-monitoring",
       "status": "scheduled",
       "content": {
-        "title": "📈 What Your Glucose Spikes Are Telling You",
+        "title": "What Your Glucose Spikes Are Telling You",
         "slides": [
           "Sign 1: Morning spike without food = Cortisol impact",
           "Sign 2: Crash 2-3 hours after meals = Insulin resistance risk",
@@ -164,7 +164,7 @@
       "category": "longevity",
       "status": "scheduled",
       "content": {
-        "title": "⏳ 7 Foods That Activate Your Longevity Pathways",
+        "title": "7 Foods That Activate Your Longevity Pathways",
         "slides": [
           "Food 1: Broccoli sprouts (sulforaphane activates NRF2)",
           "Food 2: Wild blueberries (pterostilbene activates sirtuins)",
@@ -186,7 +186,7 @@
       "category": "brain-food",
       "status": "scheduled",
       "content": {
-        "title": "🧠 Eat These 6 Foods to Boost Your Brain Power",
+        "title": "Eat These 6 Foods to Boost Your Brain Power",
         "slides": [
           "Brain Food 1: Fatty fish (DHA for neural membranes)",
           "Brain Food 2: Eggs (choline for neurotransmitter production)",
@@ -207,7 +207,7 @@
       "category": "regenerative-agriculture",
       "status": "scheduled",
       "content": {
-        "title": "🌱 Why Regenerative Agriculture Is the Future of Food",
+        "title": "Why Regenerative Agriculture Is the Future of Food",
         "slides": [
           "Benefit 1: Captures 5-20x more carbon than conventional farming",
           "Benefit 2: Creates soil with 3-8x more nutrients in food",
@@ -228,7 +228,7 @@
       "category": "adaptogens",
       "status": "scheduled",
       "content": {
-        "title": "🌿 6 Adaptogens That Actually Work (According to Science)",
+        "title": "6 Adaptogens That Actually Work (According to Science)",
         "slides": [
           "Adaptogen 1: Ashwagandha (reduces cortisol by 23%)",
           "Adaptogen 2: Rhodiola (improves mental fatigue within 1 week)",
@@ -249,7 +249,7 @@
       "category": "womens-health",
       "status": "scheduled",
       "content": {
-        "title": "💊 Eat According to Your Cycle: Hormone-Balancing Foods",
+        "title": "Eat According to Your Cycle: Hormone-Balancing Foods",
         "slides": [
           "Follicular Phase: Cruciferous vegetables (support estrogen metabolism)",
           "Ovulatory Phase: Antioxidant-rich berries (support egg quality)",
@@ -270,7 +270,7 @@
       "category": "precision-nutrition",
       "status": "scheduled",
       "content": {
-        "title": "🔬 Why Your DNA Should Determine Your Diet",
+        "title": "Why Your DNA Should Determine Your Diet",
         "slides": [
           "Gene 1: FTO (affects how you process carbohydrates)",
           "Gene 2: MTHFR (determines folate metabolism efficiency)",
@@ -291,7 +291,7 @@
       "category": "mental-nutrition",
       "status": "scheduled",
       "content": {
-        "title": "😊 7 Foods Scientifically Proven to Boost Your Mood",
+        "title": "7 Foods Scientifically Proven to Boost Your Mood",
         "slides": [
           "Mood Food 1: Dark chocolate (increases serotonin within 40 minutes)",
           "Mood Food 2: Fatty fish (omega-3s reduce depression risk by 17%)",
@@ -313,7 +313,7 @@
       "category": "anti-inflammatory",
       "status": "scheduled",
       "content": {
-        "title": "🔥 8 Most Inflammatory Foods You're Eating Daily",
+        "title": "8 Most Inflammatory Foods You're Eating Daily",
         "slides": [
           "Inflammatory Food 1: Seed oils (high omega-6 content)",
           "Inflammatory Food 2: Ultra-processed foods (chemical additives)",
@@ -336,7 +336,7 @@
       "category": "superfoods",
       "status": "scheduled",
       "content": {
-        "title": "🌿 5 Ancient Superfoods Making a Comeback in 2025",
+        "title": "5 Ancient Superfoods Making a Comeback in 2025",
         "slides": [
           "Superfood 1: Moringa (more calcium than milk, more vitamin C than oranges)",
           "Superfood 2: Tigernuts (prebiotic fiber and resistant starch)",
@@ -356,7 +356,7 @@
       "category": "hydration",
       "status": "scheduled",
       "content": {
-        "title": "💧 Hydration Hacks: Beyond 8 Glasses a Day",
+        "title": "Hydration Hacks: Beyond 8 Glasses a Day",
         "slides": [
           "Hack 1: Electrolyte timing (sodium before exercise, potassium after)",
           "Hack 2: Structured water from fruits and vegetables (superior hydration)",
@@ -377,7 +377,7 @@
       "category": "food-synergy",
       "status": "scheduled",
       "content": {
-        "title": "🧵 7 Food Combinations That Multiply Nutrient Absorption",
+        "title": "7 Food Combinations That Multiply Nutrient Absorption",
         "slides": [
           "Combo 1: Turmeric + Black Pepper (increases curcumin absorption by 2000%)",
           "Combo 2: Vitamin C + Iron (improves non-heme iron absorption by 300%)",
@@ -399,7 +399,7 @@
       "category": "sleep-nutrition",
       "status": "scheduled",
       "content": {
-        "title": "😴 6 Foods That Transform Your Sleep Quality",
+        "title": "6 Foods That Transform Your Sleep Quality",
         "slides": [
           "Sleep Food 1: Tart cherries (natural melatonin source)",
           "Sleep Food 2: Kiwi fruit (improves sleep onset by 42%)",
@@ -420,7 +420,7 @@
       "category": "athletic-recovery",
       "status": "scheduled",
       "content": {
-        "title": "🏋️ 7 Post-Workout Recovery Foods Backed by Science",
+        "title": "7 Post-Workout Recovery Foods Backed by Science",
         "slides": [
           "Recovery Food 1: Tart cherry juice (reduces muscle soreness by 49%)",
           "Recovery Food 2: Whey protein + leucine (triggers MPS within 30 minutes)",
@@ -442,7 +442,7 @@
       "category": "chrono-nutrition",
       "status": "scheduled",
       "content": {
-        "title": "⏰ Meal Timing: The Missing Piece of Your Nutrition Puzzle",
+        "title": "Meal Timing: The Missing Piece of Your Nutrition Puzzle",
         "slides": [
           "Timing Principle 1: Protein distribution (25-30g every 4-5 hours)",
           "Timing Principle 2: Carb timing (higher at breakfast improves insulin sensitivity)",

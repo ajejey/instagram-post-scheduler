@@ -37,7 +37,7 @@ configureCloudinary(); // Call configuration
 // --- Design Constants ---
 
 const WIDTH = 1080;
-const HEIGHT = 1080; // Square format is good for carousels
+const HEIGHT = 1350; // Portrait format for carousels
 
 const COLORS = {
   background: '#F8F5E6', // Warm cream - natural and inviting
@@ -174,8 +174,8 @@ const drawSlideBase = (
     // Footer Area
     const footerHeight = 60;
     const footerY = HEIGHT - footerHeight;
-    // ctx.fillStyle = COLORS.subtleGray + '50'; // Subtle footer background
-    // ctx.fillRect(0, footerY, WIDTH, footerHeight);
+    ctx.fillStyle = COLORS.subtleGray + '50'; // Subtle footer background
+    ctx.fillRect(0, footerY, WIDTH, footerHeight);
 
     // Brand Name
     ctx.fillStyle = COLORS.textSecondary;
